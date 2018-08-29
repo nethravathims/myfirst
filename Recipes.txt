@@ -1,7 +1,9 @@
 
 
-Welcom to myfirst cooking recipe: Pasta
+*****Welcom to cooking recipes******
 
+-----------------------------------------------------------------------------------------------------------
+1st Receipe: Pasta
 
 Ingredients: 
 Pasta Penne
@@ -19,6 +21,7 @@ Preparing Method:
 -leave for few min closing the lid and your simple veg pasta is ready to sevre!!
 
 
-
-
 Thank you and Happy Cooking :)
+----------------------------------------------------------------------------------------------------------
+
+2nd  Receipe: Kheer
